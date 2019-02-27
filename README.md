@@ -1,3 +1,3 @@
 Algoritmo implementado para a disciplina Métodos Numéricos.
 
-A implementação compara os resultados dos dois métodos.
+A implementação faz uam comparação entre os resultados dos dois métodos.
