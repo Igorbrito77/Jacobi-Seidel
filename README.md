@@ -1,3 +1,2 @@
-Algoritmo implementado durante o curso da matéria  Métodos Numéricos.
-
+Algoritmo implementado para a disciplina Métodos Numéricos.
 A implementação compara os resultados dos dois métodos.
